@@ -10,9 +10,9 @@ In case your application uses the below platform, we are the right team to help 
 
 We are a bunch of Functional and Security QA testers, having experinece in testing applications related to:
 
-| Media  | Telecom  | Social Networks | IOT |
+| ✔ Media  | ✔ Telecom  | ✔ Social Networks | ✔ IOT |
 | :---: | :---: | :---: | :---: |
-| **Recharge**  | **Banking**  | **Shopping** | **Portals** |
+| **✔ Recharge**  | **✔ Banking**  | **✔ Shopping** | **✔ Portals** |
     
     
 ____ 
