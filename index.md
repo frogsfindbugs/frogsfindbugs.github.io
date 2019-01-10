@@ -12,7 +12,7 @@ We are a bunch of Functional and Security QA testers, having experinece in testi
 
 | Media  | Telecom  | Social Networking |
 | ------- | ------- | --------|
-| Recharge  | Banking  | eCommerce |
+| **Recharge**  | **Banking**  | **eCommerce** |
     
 ## Below data is junk, stored for reference
 
