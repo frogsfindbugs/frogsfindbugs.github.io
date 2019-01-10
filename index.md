@@ -17,7 +17,7 @@
 | **IOT**  | **Banking**  | **Shopping** | **Portals** |
     
     
-See the contact info: [Contact]("https://frogsfindbugs.github.io/contact/index.html")
+See the contact info: [Contact]("https://frogsfindbugs.github.io/contact/")
 
 ____ 
     
