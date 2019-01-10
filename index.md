@@ -10,7 +10,6 @@ ____
 
 We are a bunch of Functional and Security QA testers, having experinece in testing applications related to:
 
-| First Header  | Second Header | Third |
 | ------------- | ------------- | ------------- |
 | Media  | Telecom  | Social Networking |
 | Recharge  | Banking  | eCommerce |
