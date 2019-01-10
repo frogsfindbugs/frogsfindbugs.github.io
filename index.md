@@ -30,8 +30,9 @@ ____
 - Functional and UI Testing tools used: Selenium, JMeter, Appium, TestNG
 - Security Testing tools used: BurpSuite, Metasploit, NMap, IBM Appscan, Dex2Jar, MobSF, Frida
     
-##### You can contact us at: mail@frogsfindbugs.com | Visit the [Contact](/contact/) page
 ##### For interesting bug-finds from our team, visit our [Blog](/blog/) page
+##### You can contact us at: mail@frogsfindbugs.com | Visit the [Contact](/contact/) page
+
 ____
 
 
