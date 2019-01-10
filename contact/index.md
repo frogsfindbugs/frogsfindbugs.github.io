@@ -6,10 +6,8 @@
  
 #### Office Locations
 
-Chandkheda,           Airoli,
-
-Ahmedabad,            Navi Mumbai,
-
-Gujarat - 382424      Maharashtra - 400708
-
-INDIA                 INDIA
+| Chandkheda | Airoli |
+|:---|:---|
+| Ahmedabad | Navi Mumbai |
+| Gujarat - 382424 | Maharashtra - 400708 |
+| India | India |
