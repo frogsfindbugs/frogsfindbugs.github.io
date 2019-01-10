@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+**Worried about bugs in your application? We can help you find and smash them before they reach your Production server!**
 
-You can use the [editor on GitHub](https://github.com/frogsfindbugs/frogsfindbugs.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In case your application uses the below platform, we are the right team to help you find bugs:
+- Android phones/tabs/Set-top-box/Chromecast/FireStick
+- iOS phones/tabs
+- Web-based and Desktop-based (Windows, Linux, Mac)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+===================================
+Below data is junk, stored for reference
 
 ### Markdown
 
