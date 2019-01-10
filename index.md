@@ -2,9 +2,6 @@
 ### We can help you find and smash them before they reach your Production server!
 
 #### In case your application uses the below platform, we are the right team to help you find bugs:
-- **Android** _Phones/Tabs/Set-top-box/Amazon-FireStick_
-- **iOS** _Phones/Tabs_
-- **Web** and **Desktop** _Windows/Linux/Mac_
 
 | Android | Desktop | iOS |
 |:--:|:--:|:--:|
@@ -15,9 +12,9 @@
 
 #### We are a bunch of Functional and Security QA testers, having experinece in testing applications related to:
 
-| ✔ Media  | ✔ Telecom  | ✔ Social Networks | ✔ IOT |
+| • Media  | • Telecom  | • Social Networks | • Recharge |
 | :---: | :---: | :---: | :---: |
-| **✔ Recharge**  | **✔ Banking**  | **✔ Shopping** | **✔ Portals** |
+| **• IOT**  | **• Banking**  | **• Shopping** | **• Portals** |
     
     
 ____ 
