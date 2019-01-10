@@ -12,9 +12,9 @@
 
 #### We are a bunch of Functional and Security QA testers, having experinece in testing applications related to:
 
-| • Media  | • Telecom  | • Social Networks | • Recharge |
+| Media  | Telecom  | Social Networks | Recharge |
 | :---: | :---: | :---: | :---: |
-| **• IOT**  | **• Banking**  | **• Shopping** | **• Portals** |
+| **IOT**  | **Banking**  | **Shopping** | **Portals** |
     
     
 See the contact info: [Contact]("https://frogsfindbugs.github.io/contact/index.html")
