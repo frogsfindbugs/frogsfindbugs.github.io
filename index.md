@@ -22,7 +22,18 @@ title: Frogs-find-Bugs
 
 ____
     
-See the contact info: [Contact](/contact/)
+#### About the team
 
-____ 
+- Bunch of professionals with mid to senior level experience in Security, Functional and UI testing
+- Have professionally worked with MNCs and start-ups for securing their products and making them bug-free
+- Freelancing projects with multiple companies all over the globe
+- Functional and UI Testing tools used: Selenium, JMeter, Appium, TestNG
+- Security Testing tools used: BurpSuite, Metasploit, NMap, IBM Appscan, Dex2Jar, MobSF, Frida
+    
+##### You can contact us at: mail@frogsfindbugs.com | Visit the [Contact](/contact/) page
+##### For interesting bug-finds from our team, visit our [Blog](/blog/) page
+____
+
+
+ 
     
