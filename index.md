@@ -18,7 +18,7 @@
 
 ____
     
-See the contact info: [Contact]("https://frogsfindbugs.github.io/contact/")
+See the contact info: [Contact]("/contact/")
 
 ____ 
     
