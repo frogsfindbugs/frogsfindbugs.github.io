@@ -18,7 +18,7 @@
 
 ____
     
-See the contact info: [Contact]("/contact/")
+See the contact info: [Contact](/contact/)
 
 ____ 
     
