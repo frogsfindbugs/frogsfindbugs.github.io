@@ -1,3 +1,7 @@
+---
+title: Frogs find Bugs | Application Security | Functional QA Testing
+---
+
 ### Worried about bugs or security issues in your application? 
 ### We will help you find and smash them before they reach your Production server!
 
@@ -31,5 +35,6 @@ ____
 ____
 
 
+###### Keywords: #applicationsecurity #websecurity #androidsecurity #functionaltesting #uitesting #selenium #iossecurity #burpsuite #freelancing #javasecurity #regressiontesting #sdlc #smoketesting #blackboxtesting
  
     
