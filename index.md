@@ -1,4 +1,4 @@
-**Worried about bugs in your application? We can help you find and smash them before they reach your Production server!**
+**Worried about bugs or security issues in your application? We can help you find and smash them before they reach your Production server!**
 
 In case your application uses the below platform, we are the right team to help you find bugs:
 - Android phones/tabs/Set-top-box/Chromecast/FireStick
