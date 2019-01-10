@@ -17,7 +17,8 @@
 | **• IOT**  | **• Banking**  | **• Shopping** | **• Portals** |
     
     
-See the contact info: [Contact]("https://frogsfindbugs.github.io/contact.html")
+See the contact info: [Contact]("https://frogsfindbugs.github.io/contact/index.html")
+
 ____ 
     
 ## Below data is junk, stored for reference
