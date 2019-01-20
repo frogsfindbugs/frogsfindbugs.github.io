@@ -39,6 +39,8 @@ The browser proceeds on the basis of this response from server. If we make chang
 
 Both these above responses are used to exploit the security issue.
 
+____
+
 **How to exploit**:
 1. Setup your browser to use a proxy for HTTP/S request-responses
 2. Enter your desired mobile number (can be your friend’s number, or any unknown victim’s number)
