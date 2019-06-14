@@ -15,7 +15,7 @@ photos ============
 But there were no network connections till that point, and then it started sending some data to Google Adwords URL.
 Next, I entered mobile number as 0000000000, and it still accepted my mobile number as valid Jio number and showed me the loading pop-ups, next with the Share on Whatsapp screen. Since I don’t have Whatsapp installed on the emulator, I was not able to test further, but I was sure that they were sending user clicks to Google Adwords.
 
-The [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) analysis results are here: 
+##### The [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) analysis results are here: 
 
 1. Some of the dangerous Android permissions asked by the app:
 a. READ_EXTERNAL_STORAGE
@@ -34,13 +34,13 @@ Ten (10) Engines at VirusTotal also marked this app as malicious, screenshot her
 
 photos ===============
 
-Takeaways:
+##### Takeaways:
 
 I could just see their JioPrime ad on 1 page on Instagram, but not sure where else they have posted their ads and how many victims have installed their APK. Also, since the app is having dangerous permissions (like Read & write external storage, read SMS), I am sure they would be accessing and sending this data somewhere.
 
 It is highly recommended not to install APKs from unknown sources. Even some of the Google Playstore apps have malwares in them, but that’s totally a different topic.
 
-To-do:
+##### To-do:
 
 – Check if it is mining any cryptocurrency
 – Reverse Engineer the APK for finding out the creator of the APK and the relevant Adwords account
@@ -49,5 +49,5 @@ To-do:
 
 In case you have free time, please feel free to do further analysis of the APK and provide more malicious vectors.
 
-    You can download the APK from this blog: http://jiodatapack.blogspot.com/
-    VirusTotal report available here: https://www.virustotal.com/#/file/7f4cea3b6bceb4aebb45a8f1c6e528f90eec1a87009f18d93de51b32fc85034c/detection
+- You can download the APK from this blog: [http://jiodatapack.blogspot.com/]
+- VirusTotal report available here: [https://www.virustotal.com/#/file/7f4cea3b6bceb4aebb45a8f1c6e528f90eec1a87009f18d93de51b32fc85034c/detection]
