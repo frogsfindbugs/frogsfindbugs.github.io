@@ -2,7 +2,7 @@
 title: Frogs find Bugs - Application Security - Functional QA Testing
 ---
 
-### <center> Worried about bugs or security issues in your application? </center>
+### <center> ### Worried about bugs or security issues in your application? </center>
 
 ### We will help you find and smash them before they reach your Production server!
 
