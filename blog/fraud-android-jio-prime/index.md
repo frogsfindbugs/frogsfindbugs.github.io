@@ -1,6 +1,6 @@
 ## Analysis of a Fraud Android App - Jio Prime
 
-##### TLDR: A fake crypto-currency mining app, named Jio Prime, was being marketed over Instagram pages. This Android app used the UI similar to Jio's original apps and tried to conceive users to install the app and later stealthily mine cryptocurrency on their devices.
+##### Backstory: A fake crypto-currency mining app, named Jio Prime, was being marketed over Instagram pages. This Android app used the UI similar to Jio's original apps and tried to conceive users to install the app and later stealthily mine cryptocurrency on their devices. One of the team-member spotted the app on Instagram and started to de-construct it, here's the story in his own words:
 
 I am following an Instagram page with about 130K followers. These pages post ads sometimes when they get paid for them. One such ad said – “Get 10GB Data Everyday for Free for 3 Months – for Jio Prime Users”. Since I am a Jio user, I got curious to check this and was sure – this was some kind of fraud going on, and the ad was not by original Jio — they were using the name of Jio to milk their followers, since many of the users use Jio for their data connection.
 
