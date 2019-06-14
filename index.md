@@ -1,7 +1,7 @@
 ---
 title: Frogs find Bugs - Application Security - Functional QA Testing
 ---
-<center>
+
 
 ### Worried about bugs or security issues in your application? 
 
@@ -9,6 +9,8 @@ title: Frogs find Bugs - Application Security - Functional QA Testing
 
 #### In case your application uses the below platform, we are the right team to help you find bugs:
 
+<center>
+    
 | Android | Desktop | iOS |
 |:--:|:--:|:--:|
 | Phones | Webapps | iPhones |
