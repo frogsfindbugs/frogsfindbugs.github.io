@@ -1,8 +1,9 @@
 ---
 title: Frogs find Bugs - Application Security - Functional QA Testing
 ---
+<center>
 
-### <center> Worried about bugs or security issues in your application? </center>
+### Worried about bugs or security issues in your application? 
 
 ### We will help you find and smash them before they reach your Production server!
 
@@ -14,6 +15,7 @@ title: Frogs find Bugs - Application Security - Functional QA Testing
 | Tabs | Windows | iPads |
 | STB & Smart-TVs | Linux | ★ |
 
+</center>
 
 #### We are a bunch of Functional and Security QA testers, having experience in testing applications related to:
 
