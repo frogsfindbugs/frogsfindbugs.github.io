@@ -30,17 +30,17 @@ photos ===============
 
 Later I uploaded the APK to [VirusTotal](https://www.virustotal.com/gui/home/upload) for their analysis. One thing that attracted my attention was a Service named “er.upgrad.jio.jioupgrader.Coinhive“. While Coinhive (link to KrebsonSecurity article) is a cryptocurrency mining service, this app could be a miner in the name of Jio. Eat the process of user device, earn money for the APK owner.
 
-Twelve (12) Engines at VirusTotal also marked this app as malicious, screenshot here:
+_Twelve (12)_ Engines at VirusTotal also marked this app as malicious, screenshot here:
 
 photos ===============
 
-##### Takeaways:
+**Takeaways**:
 
 I could just see their JioPrime ad on 1 page on Instagram, but not sure where else they have posted their ads and how many victims have installed their APK. Also, since the app is having dangerous permissions (like Read & write external storage, read SMS), I am sure they would be accessing and sending this data somewhere.
 
 It is highly recommended not to install APKs from unknown sources. Even some of the Google Playstore apps have malwares in them, but that’s totally a different topic.
 
-<bold> To-do: </bold>
+**To-do**:
 
 – Check if it is mining any cryptocurrency
 
