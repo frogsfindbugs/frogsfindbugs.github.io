@@ -30,7 +30,7 @@ photos ===============
 
 Later I uploaded the APK to [VirusTotal](https://www.virustotal.com/gui/home/upload) for their analysis. One thing that attracted my attention was a Service named “er.upgrad.jio.jioupgrader.Coinhive“. While Coinhive (link to KrebsonSecurity article) is a cryptocurrency mining service, this app could be a miner in the name of Jio. Eat the process of user device, earn money for the APK owner.
 
-Ten (10) Engines at VirusTotal also marked this app as malicious, screenshot here:
+Twelve (12) Engines at VirusTotal also marked this app as malicious, screenshot here:
 
 photos ===============
 
