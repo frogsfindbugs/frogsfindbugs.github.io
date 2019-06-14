@@ -1,5 +1,5 @@
 ---
-title: Frogs find Bugs | Application Security | Functional QA Testing
+title: Frogs find Bugs - Application Security - Functional QA Testing
 ---
 
 ### Worried about bugs or security issues in your application? 
