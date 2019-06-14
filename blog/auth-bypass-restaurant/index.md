@@ -1,6 +1,6 @@
 ## Authentication Bypass Bug in Famous Restaurant Chain
 
-##### TLDR: While ordering dinner for the team, our tester came across a bug where he could login to anybody’s account and view their details (like name, email address, home address, order details). This issue was fixed on the same day of reporting to the concerned technical team.
+##### Backstory: While ordering dinner for the team, our tester came across a bug where he could login to anybody’s account and view their details (like name, email address, home address, order details). This issue was fixed on the same day of reporting to the concerned technical team.
 
 Lets name the company FoodieExpress, which serves fast-food in their restaurants, allows take-away of food and does home-delivery of food (when ordered over call, mobile app or website).
 
