@@ -4,18 +4,18 @@
 
 I am following an Instagram page with about 130K followers. These pages post ads sometimes when they get paid for them. One such ad said – “Get 10GB Data Everyday for Free for 3 Months – for Jio Prime Users”. Since I am a Jio user, I got curious to check this and was sure – this was some kind of fraud going on, and the ad was not by original Jio — they were using the name of Jio to milk their followers, since many of the users use Jio for their data connection.
 
-I visited the URL (link) and downloaded the mentioned APK (JioPrime.apk), which is hosted on Google Drive. Turned-on the emulator and loaded this APK – yes, the icon was same as Jio’s logo (spot the app named Jio Prime in screenshot below). On opening the APK, it gives look-n-feel similar to MyJio app (the self-service app for Jio customers):
+I visited the [URL](http://jiodatapack.blogspot.com/) and downloaded the mentioned APK (JioPrime.apk), which is hosted on Google Drive. Turned-on the emulator and loaded this APK – yes, the icon was same as Jio’s logo (spot the app named Jio Prime in screenshot below). On opening the APK, it gives look-n-feel similar to MyJio app (the self-service app for Jio customers):
 
-photos ============
+
 
 It asked me to provide my phone number. I started capturing the request/responses with Burp to look for anything malicious – I entered my mobile number and it gave me the loading screen, saying something is happening in the backend. Any user will be convinced by the different pop-ups saying: ‘Connecting to Sever…’, ‘Connected’, ‘Activating Offer’. Next it took me to “Share with Whatsapp” screen, where it asked me to share it with 10 users on Whatsapp.
 
-photos ============
+
 
 But there were no network connections till that point, and then it started sending some data to Google Adwords URL.
 Next, I entered mobile number as 0000000000, and it still accepted my mobile number as valid Jio number and showed me the loading pop-ups, next with the Share on Whatsapp screen. Since I don’t have Whatsapp installed on the emulator, I was not able to test further, but I was sure that they were sending user clicks to Google Adwords.
 
-##### The [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) analysis results are here: 
+**The [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) analysis results are here**: 
 
 1. Some of the dangerous Android permissions asked by the app:
 a. READ_EXTERNAL_STORAGE
@@ -26,7 +26,7 @@ e. SYSTEM_ALERT_WINDOW
 
 2. Below is the list of malicious URLs and Domains contained in the APK. When you “Share via Whatsapp”, your contact will receive the link like “Activate this service before*\n*12:00AM Tonight to Enjoy*\n*25GB/Per Day!!*\n\n*Team Jio.*\n\n*Link* : http://tiny.cc/Jio-Free-1Year“;“
 
-photos ===============
+
 
 ____
 
@@ -34,7 +34,7 @@ Later I uploaded the APK to [VirusTotal](https://www.virustotal.com/gui/home/upl
 
 _Twelve (12)_ Engines at VirusTotal also marked this app as malicious, screenshot here:
 
-photos ===============
+
 
 **Takeaways**:
 
